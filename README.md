@@ -106,3 +106,13 @@ B. Authentication Options
     `Open an issue with your scenario`
     `Submit a PR with improvements`
     `Add alternative language examples (JS/Node)`
+
+## Disclaimer
+- This repository is a community guide based on the official Postiz documentation and general WordPress REST behavior.
+- I do not currently have a Postiz account to perform end-to-end testing.
+- The examples illustrate the expected flow but may require adjustments depending on:
+    - Postiz account configuration
+    - authentication method (App Password / JWT)
+    - WordPress hosting restrictions
+    - Postiz API changes
+- PRs from users with real Postiz setups are very welcome 🙏
