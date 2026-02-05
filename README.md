@@ -52,7 +52,7 @@ B. Authentication Options
     `Use this token in requests to WordPress.`
 
 ## Verify WordPress Side
-`curl https://your-site.com/wp-json/wp/v2/posts \ -u username:app-password`
+    `curl https://your-site.com/wp-json/wp/v2/posts \ -u username:app-password`
 - This should return a JSON list of posts.
 
 ## How Flow Works
